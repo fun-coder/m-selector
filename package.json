@@ -1,0 +1,24 @@
+{
+  "name": "m-selector",
+  "version": "0.1.0",
+  "description": "Selector for too many options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fun-coder/m-selector.git"
+  },
+  "keywords": [
+    "select",
+    "selector",
+    "many"
+  ],
+  "author": "li-qiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fun-coder/m-selector/issues"
+  },
+  "homepage": "https://github.com/fun-coder/m-selector#readme"
+}
